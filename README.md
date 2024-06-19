@@ -55,6 +55,3 @@ When you run the program, it will prompt you to enter an amount in US dollars. A
 - Japanese Yen
 - South African Rand
 - Canadian Dollar
-
-## Example
-
